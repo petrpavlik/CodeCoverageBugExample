@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CocoaAsyncSocket",
+        "repositoryURL": "https://github.com/robbiehanson/CocoaAsyncSocket.git",
+        "state": {
+          "branch": null,
+          "revision": "0e00c967a010fc43ce528bd633d032f17158d393",
+          "version": "7.6.4"
+        }
+      },
+      {
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
+        "state": {
+          "branch": null,
+          "revision": "665d02280f5c04515e76feb78078dd89da091f3e",
+          "version": "5.9.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
